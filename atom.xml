@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xifeng2.github.io</id>
     <title>Gridea</title>
-    <updated>2022-04-01T16:30:51.372Z</updated>
+    <updated>2022-05-30T06:30:12.519Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://xifeng2.github.io"/>
     <link rel="self" href="https://xifeng2.github.io/atom.xml"/>
@@ -10,6 +10,58 @@
     <logo>https://xifeng2.github.io/images/avatar.png</logo>
     <icon>https://xifeng2.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[MarkDown的学习]]></title>
+        <id>https://xifeng2.github.io/post/markdown-de-xue-xi/</id>
+        <link href="https://xifeng2.github.io/post/markdown-de-xue-xi/">
+        </link>
+        <updated>2022-05-30T05:59:58.000Z</updated>
+        <content type="html"><![CDATA[<h2 id="标题">标题</h2>
+<p>最多有六级标题</p>
+<h2 id="字体">字体</h2>
+<p><em>斜体</em><br>
+<strong>粗体</strong><br>
+<em><strong>斜粗体</strong></em><br>
+<s>划横杠</s></p>
+<h2 id="分隔符">分隔符</h2>
+<hr>
+<hr>
+<h2 id="引用">引用</h2>
+<blockquote>
+<p>我是一个引用</p>
+<blockquote>
+<p>我是一个嵌套引用</p>
+</blockquote>
+</blockquote>
+<h2 id="插入图片">插入图片</h2>
+<figure data-type="image" tabindex="1"><img src="D://01.jpg" alt="这是一张图片" title="编译原理" loading="lazy"></figure>
+<h2 id="换行">换行</h2>
+<p>一行字符后添加多个空格按回车<br>
+就可以了</p>
+<h2 id="列表">列表</h2>
+<ol>
+<li>我是第一行</li>
+<li>我是第二行
+<ol>
+<li>我是嵌套行</li>
+<li>我是嵌套行</li>
+</ol>
+</li>
+<li>我是第三行</li>
+</ol>
+<ul>
+<li>我是无序行</li>
+<li>我也是无序行</li>
+</ul>
+<h2 id="代码语法">代码语法</h2>
+<p><code>包裹在反引号里</code><br>
+<code>转义`反引号`</code></p>
+<h2 id="链接语法">链接语法</h2>
+<p><a href="https://www.baidu.com">百度</a></p>
+<h2 id="转义">转义</h2>
+<p>如果你要打「AT&amp;T」 ，你必须要写成「AT&amp;amp;T」</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://xifeng2.github.io/post/hello-gridea/</id>
